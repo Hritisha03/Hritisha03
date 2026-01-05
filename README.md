@@ -1,18 +1,16 @@
 # Hey there! I'm Hritisha 🙋‍♀️
 
-I'm a CS undergrad and a reader in India.
+I’m a Computer Science undergraduate based in India, currently studying at KIIT University.
 
-I'm currently pursueing my undergraduate from KIIT university.
+Right now, I’m exploring the intersection of technology, humans, and systems — not just how to build things, but why they should exist and how people actually experience them.
 
 I'm exploring:
-- **Web Development** - designing and developing interactive, responsive UI.
-- **Data Structures and Algorithm** - strengthening my problem-solving skills, one algorithm at a time.
-- **Human Computer Interaction** - understanding how people connect with technology and designing experiences that put humans first.
+- **Human-Centered AI & HCI** - Exploring how humans and AI should collaborate — not compete. I’m especially interested in control, trust, explainability, and designing systems that keep humans engaged and responsible.
+- **CS Foundations** - Strengthening core concepts like Data Structures & Algorithms and system thinking to support long-term research and engineering goals.
 
-I'm fascinated by the way technology shapes our experiences — from stunning 3D websites to powerful AI tools — and how these innovations help us solve real-world problems and connect with each other in remarkable ways.
+I’m fascinated by how technology shapes human behavior — from interfaces that subtly influence decisions to AI systems that change how we think, trust, and act. I care deeply about building technology that is thoughtful, ethical, and human-first, not just impressive on paper.
 
-Outside studies, I'm interested in classic literature, an art enthusiast and a lifelong learner.I love reading books, dancing and exploring innovations in science and technology.I find happiness in creativity — whether it's learning a new choreo, writing code, or losing myself in a good book.
- 
+Outside academics, I’m a reader, an art enthusiast, and someone who finds joy in creative flow — whether that’s dancing, experimenting with ideas, or quietly thinking through systems and patterns. I value depth, curiosity, and learning things properly (even if it takes time).
 
 **Let's connect!**
 
