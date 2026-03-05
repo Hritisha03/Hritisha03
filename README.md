@@ -1,6 +1,6 @@
 # Hey there! I'm Hritisha 👋
 
-Computer Science undergraduate [3rd year] at **KIIT University, India**.
+Computer Science undergraduate **(3rd Year)** at **KIIT University, India**.
 
 ---
 
@@ -33,12 +33,11 @@ Computer Science undergraduate [3rd year] at **KIIT University, India**.
 
 ---
 
+## 🤝 Let's Connect
 
-**Let's connect!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritisha-choudhury/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritisha-choudhury/) 
-
-
+---
 
 ## 🛠 Tech Stack
 
@@ -61,7 +60,9 @@ Computer Science undergraduate [3rd year] at **KIIT University, India**.
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hritisha03&show_icons=true&theme=radical" width="47%" />
