@@ -1,16 +1,38 @@
-# Hey there! I'm Hritisha 🙋‍♀️
+# Hey there! I'm Hritisha 👋
 
-I’m a Computer Science undergraduate based in India, currently studying at KIIT University.
+Computer Science undergraduate [3rd year] at **KIIT University, India**.
 
-Right now, I’m exploring the intersection of technology, humans, and systems — not just how to build things, but why they should exist and how people actually experience them.
+---
 
-I'm exploring:
-- **Human-Centered AI & HCI** - Exploring how humans and AI should collaborate — not compete. I’m especially interested in control, trust, explainability, and designing systems that keep humans engaged and responsible.
-- **CS Foundations** - Strengthening core concepts like Data Structures & Algorithms and system thinking to support long-term research and engineering goals.
+## 🚀 Focus
+- **AI Engineering**
+- Machine Learning & Intelligent Systems
+- Building practical AI applications
 
-I’m fascinated by how technology shapes human behavior — from interfaces that subtly influence decisions to AI systems that change how we think, trust, and act. I care deeply about building technology that is thoughtful, ethical, and human-first, not just impressive on paper.
+---
 
-Outside academics, I’m a reader, an art enthusiast, and someone who finds joy in creative flow — whether that’s dancing, experimenting with ideas, or quietly thinking through systems and patterns. I value depth, curiosity, and learning things properly (even if it takes time).
+## 📚 Currently Learning
+- Data Structures & Algorithms  
+- Machine Learning fundamentals  
+- Data processing with **NumPy & Pandas**  
+- Data visualization
+
+---
+
+## 🧠 Interests
+- Applied AI systems  
+- Human–AI interaction  
+- Designing technology that is reliable, useful, and human-aware
+
+---
+
+## 🔧 Currently Building
+- Small AI learning projects  
+- Data analysis & visualization experiments  
+- Strengthening core CS fundamentals
+
+---
+
 
 **Let's connect!**
 
@@ -18,9 +40,26 @@ Outside academics, I’m a reader, an art enthusiast, and someone who finds joy 
 
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### AI / Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats
 
