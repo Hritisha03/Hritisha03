@@ -39,7 +39,6 @@ Computer Science undergraduate **(3rd Year)** at **KIIT University, India**.
 
 ---
 
-## 🛠 Tech Stack
 
 ## 🛠 Tech Stack  
 
@@ -63,10 +62,6 @@ Computer Science undergraduate **(3rd Year)** at **KIIT University, India**.
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 📱 App Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,androidstudio" />
-</p>
 
 ### ⚙️ Tools & Technologies
 <p>
