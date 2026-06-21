@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\KIIT0001\Downloads\banner.gif"" width="100%" alt="Hritisha banner" />
+  <img src=""banner.gif"" width="100%" alt="Hritisha banner" />
 </p>
 
 <h3 align="center">Hey there! I'm Hritisha 👋</h3>
